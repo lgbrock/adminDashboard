@@ -35,7 +35,7 @@ npm run test
 
 👤 **Logan Brock**
 
-* Website: logan.g.brock@gmail.com
+* Website: logangbrock.com
 * Twitter: [@lifeisagarden23](https://twitter.com/lifeisagarden23)
 * Github: [@lgbrock](https://github.com/lgbrock)
 * LinkedIn: [@loganbrock](https://linkedin.com/in/loganbrock)
@@ -43,6 +43,3 @@ npm run test
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
